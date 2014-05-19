@@ -1,5 +1,5 @@
 //
-//  EJBViewController.h
+//  EJBTvViewController.h
 //  EJB_MockRemoteControl
 //
 //  Created by Eric on 05/02/14.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EJBViewController : UIViewController
+@interface EJBTvViewController : UIViewController
 
 @property (strong, nonatomic) IBOutlet UILabel *powerStatus;
 @property (strong, nonatomic) IBOutlet UISwitch *powerSwitch;

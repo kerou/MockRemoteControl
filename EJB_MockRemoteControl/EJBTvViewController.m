@@ -1,18 +1,18 @@
 //
-//  EJBViewController.m
+//  EJBTvViewController.m
 //  EJB_MockRemoteControl
 //
 //  Created by Eric on 05/02/14.
 //  Copyright (c) 2014 Eric Beasley. All rights reserved.
 //
 
-#import "EJBViewController.h"
+#import "EJBTvViewController.h"
 
-@interface EJBViewController ()
+@interface EJBTvViewController ()
 
 @end
 
-@implementation EJBViewController
+@implementation EJBTvViewController
 
 @synthesize powerStatus;
 @synthesize powerSwitch;

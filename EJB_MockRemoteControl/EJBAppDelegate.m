@@ -1,6 +1,6 @@
 //
 //  EJBAppDelegate.m
-//  EJB_MockRemoteControl
+//  EJB_MockRemoteControl2
 //
 //  Created by Eric on 05/02/14.
 //  Copyright (c) 2014 Eric Beasley. All rights reserved.
@@ -12,7 +12,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
     return YES;
 }
 							

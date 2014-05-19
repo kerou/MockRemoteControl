@@ -2,7 +2,7 @@
 //  main.m
 //  EJB_MockRemoteControl
 //
-//  Created by Eric on 10/17/13.
+//  Created by Eric on 05/02/14.
 //  Copyright (c) 2013 Eric Beasley. All rights reserved.
 //
 
